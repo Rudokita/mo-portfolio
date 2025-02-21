@@ -70,10 +70,10 @@ const Contact = () => {
           📞 Phone: +45 52 90 43 20
         </h4>
         <h4 style={{ fontSize: "1.5rem", color: "black" }}>
-          📷 Instagram: @obryckart
+          📷 Instagram: <a href="https://www.instagram.com/obryckart/">@obryckart</a>
         </h4>
         <h4 style={{ fontSize: "1.5rem", color: "black" }}>
-          🔗 LinkedIn: Michalina Obrycka
+          🔗 LinkedIn: <a href="https://www.linkedin.com/in/michalina-obrycka-05644b326/">Michalina Obrycka</a>
         </h4>
       </div>
     </div>
